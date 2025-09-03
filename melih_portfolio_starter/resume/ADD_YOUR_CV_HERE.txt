@@ -1,1 +1,46 @@
-Place your CV PDF in this folder and name it Melih_Kalkan_CV_Clean.pdf
+Melih Kalkan 
+Data Analyst / Data Scientist 
+Phone: +90 534 688 0250 
+Email: melihkalkan4@outlook.com 
+LinkedIn: linkedin.com/in/melih-kalkan-77b7b8192 
+GitHub: github.com/melihkalkan4 
+Medium: medium.com/@melihkalkan 
+Career Objective 
+Detail-oriented and proactive data analyst with diverse experience in software development, 
+predictive modeling, and business intelligence. Adept at translating business needs into 
+technical solutions and identifying trends from complex data. Continuously enhancing skill sets 
+through real-world projects, internal test scenarios, and self-directed learning beyond job scope. 
+Seeking to contribute to a dynamic, data-driven team. 
+Professional Experience 
+Dgpays – SoftPOS Analyst 
+June 2024 – June 2025 | Istanbul, Turkey - Led the end-to-end development and deployment of SoftPOS (Software Point of Sale) mobile 
+solutions. - Optimized backend architecture, improving transaction efficiency by 25%. - Analyzed error logs and conducted root cause analyses to prevent recurring system issues. - Independently explored test automation tools to validate deployment integrity. - Collaborated with business and QA units for better functional alignment. 
+Biofarma Pharmaceuticals – Data Analyst & Scientist 
+Oct 2023 – June 2024 | Istanbul, Turkey - Developed end-to-end analytics pipelines for pharmaceutical operations using Python and SQL. - Designed custom KPIs and visual dashboards using Power BI to track product lifecycle and 
+compliance. - Built machine learning models for patient pattern classification and forecast analysis. - Took initiative to learn pharma-related regulatory metrics and integrated them into dashboard 
+views. - Beyond assigned duties, conducted A/B test simulations for operational decision-making 
+improvements. 
+Payporter Fast Payment Systems – Assistant Specialist 
+July 2023 – Oct 2023 | Istanbul, Turkey - Provided backend analytics and built automated reports with SQL for transaction insights. - Supported the payment integration team by troubleshooting and analyzing real-time transfer 
+errors. - Voluntarily studied SWIFT standards and financial APIs to improve domain knowledge. 
+Mirsis Information Technologies – Software Developer Intern 
+Summer 2019 – 2020 | Istanbul, Turkey - Assisted in the development of customer-facing applications using Java and C. - Participated in agile sprint planning and actively contributed to testing and documentation. - Practiced version control workflows and tested legacy systems under supervision. 
+Education 
+Işık University – BSc in Management Information Systems 
+2019 – Expected 2026 | Istanbul, Turkey 
+- Active Member: MIS Club - Leadership Roles: Sport Club – President, Social Activities Club – Senior Manager - Relevant Coursework: Data Mining, Advanced Excel for Business Analytics, Information 
+Security, Statistics for Decision-Making 
+Skills 
+Languages & Frameworks: Python, SQL, Java, C, HTML/CSS, JavaScript 
+Tools & Platforms: Tableau, Power BI, Docker, Git, Linux, Excel (Advanced), Jupyter, VS Code 
+Technologies & Concepts: Machine Learning, Deep Learning, Predictive Modeling, A/B Testing, 
+Business Intelligence, Data Cleaning, ETL Pipelines 
+Languages: Turkish – Native, English – Proficient (C1), Albanian – Intermediate (B1) 
+Certifications: - Frontend Development - Microservices Architecture - Data Storytelling & Visualization - Blockchain & Mobile Development 
+Projects & Publications - Sales Forecasting Model: Created a time-series model with Prophet to predict retail sales by 
+region. - Pharma BI Dashboard: Built Power BI dashboards for real-time tracking of stock levels and 
+shipment bottlenecks. - SoftPOS QA Enhancer: Designed an internal tool that cross-validated test cases and transaction 
+logs. - Medium Articles: Published insights on “From SQL to Storytelling” and “Getting Started with 
+Python ML” on Medium. 
+References 
+Available upon request.
